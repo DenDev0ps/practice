@@ -1,0 +1,18 @@
+<?php
+$a = 'Мои знания на';
+$b = 100;
+$c = '%'; 
+?>
+
+<?php
+  $price = 15;
+  if($price >= 15 && $price <= 20)
+      $d = 'Это число находится между 15 и 20';
+?>
+<?php
+ $number = 20;
+ $del = 5;
+ $digit = 10;
+ $del = $number/$digit;
+ $proiz = $number*$digit;
+?>
